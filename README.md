@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Working as Software Engineer at **[CedarGate](https://www.cedargate.com/)**
+- Working as Software Engineer at **[CedarGate Nepal](https://www.cedargate.com/)**
 - Learning about RTMP and making a private streaming platform
 - Also working on my own personal Static Site Generator
 
@@ -17,7 +17,7 @@
 
 ##### BIO
 - Born: Feb, 1998
-- Undergrad in Computer Science from [Tribhuwan University](http://www.tribhuvan-university.edu.np/)
+- Undergrad in Computer Science
 - Full time Wagie
 - Death
 
