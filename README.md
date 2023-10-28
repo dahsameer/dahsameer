@@ -5,8 +5,7 @@
 ##### NOW
 
 - Working as Software Engineer at **[CedarGate Nepal](https://www.cedargate.com/)**
-- Learning about RTMP and making a private streaming platform
-- Also working on my own personal Static Site Generator
+- Learning rust and working on my own app using it
 
 ##### KNOW ME
 
