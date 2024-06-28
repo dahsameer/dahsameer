@@ -9,16 +9,11 @@
 
 ##### KNOW ME
 
-- Daily drivers: `.js`, `.cs`, `.go`, `.rs`, `.svelte`, `.ts`
+- Daily drivers: `.js`, `.cs`, `.rs`, `.svelte`, `.ts`, `.ex`
 - Learning about **Open Source**. Mostly lurking but hoping I will start contributing myself someday
 - Things I love to do: **development**, **reverse engineering**, **debugging**
-- Fun fact: I love memes and pepes
+- Learning Elixir at the moment
 
-##### BIO
-- Born: Feb, 1998
-- Undergrad in Computer Science
-- Full time Wagie
-- Death
 
 ##### CONTACT
 - LinkedIn: [Link :D](https://www.linkedin.com/in/dahsameer/)
