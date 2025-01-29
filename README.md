@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- Working as Software Engineer at **[CedarGate Nepal](https://www.cedargate.com/)**
 - Learning Elixir, and Zig at the moment
+- Available for freelancing
 
 ##### KNOW ME
 
